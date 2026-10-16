@@ -10,6 +10,7 @@ Três partes:
 | ID | Título | Tipo | Itens | Arquivo |
 |----|--------|------|-------|---------|
 | 001 | 99 Códigos para Engenheiros(a) | Prompts/comandos para IA | 99 (4 cortados na imagem) | [001-99-codigos-engenheiros.md](001-99-codigos-engenheiros.md) |
+| 002 | Instruções personalizadas: parceiro intelectual | Instrução de perfil (7 blocos) | 7 | [002-instrucoes-parceiro-intelectual.md](002-instrucoes-parceiro-intelectual.md) |
 
 ## Entradas
 | Comando | Origem | Categoria | Skill indicada | Status |
