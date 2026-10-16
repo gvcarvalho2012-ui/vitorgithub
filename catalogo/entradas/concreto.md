@@ -9,13 +9,14 @@
 | **Quando usar** | Estimativa preliminar e conferência de dosagem de fornecedor |
 | **Status** | não testado |
 
-## Uso SEM contexto
+## SEM skill
+**Prompt cru:**
 ```
 /CONCRETO
 ```
 Resultado típico: traço genérico (1:2:3) sem resistência, sem relação água/cimento, sem agregados definidos. Perigoso: parece resposta e não é.
 
-## Uso COM contexto
+**Prompt com contexto:**
 ```
 /CONCRETO
 Elemento: laje e vigas de residência, concreto armado.
@@ -27,8 +28,13 @@ Cite a norma de cada exigência.
 ```
 **Insumos obrigatórios:** fck, classe de agressividade, tipo de cimento, agregados disponíveis, abatimento, forma de lançamento, volume total.
 
+## COM skill
+**Skill indicada:** nenhuma dedicada. **Lacuna.**
+Mais próxima pelo nome: `vc-revit-quantitativos` (para o volume de concreto extraído do modelo). A descrição não está disponível aqui; verificar antes de usar.
+**Recomendação:** criar uma skill de cálculo estrutural/materiais com `skill-creator`, embutindo as travas de norma (NBR 6118, 12655, 14931).
+
 ## Exemplo
-Conferir se o requisito é coerente: para CAA II em concreto armado, a NBR 6118 pede classe mínima C25 e a/c máxima de 0,60. Se a IA responder fora disso, a resposta está errada.
+Teste de sanidade: para CAA II em concreto armado, a NBR 6118 pede classe mínima C25 e a/c máxima de 0,60. Se a IA responder fora disso, a resposta está errada.
 
 ## Armadilhas
 - Traço de obra real exige dosagem experimental e ensaio. A IA só dá estimativa.
