@@ -23,9 +23,10 @@ Depois de eu responder, corrija e liste meus pontos fracos.
 **Insumos obrigatórios:** tema, estilo de cobrança, quantidade, dificuldade, material-base.
 
 ## COM skill
-**Skill indicada:** nenhuma dedicada. **Lacuna.**
-Apoio parcial: `pdf` (usar um PDF de norma ou apostila como base) e `xlsx` (registrar acertos por tema e acompanhar evolução).
-**Recomendação:** criar uma skill "estudo" com `skill-creator` que una resumo, mapa, simulado e revisão espaçada (item abaixo).
+**Skill indicada:** `vc-estudo` (modo simulado). Gera questões em 3 níveis, gabarito justificado, fonte e erro comum; exige material-base para tema normativo; corrige e lista pontos fracos.
+**Como acionar:** "/SIMULADO sobre [material anexo], 10 questões, nível profissional".
+Apoio: `pdf` (base em PDF de norma) e `xlsx` (placar por tema).
+**Fonte da indicação:** skill criada nesta sessão, não testada.
 
 ## Exemplo
 Base: capítulo da NBR 6118 sobre durabilidade. Pedir questões que cobrem a tabela de classes de agressividade, com justificativa.

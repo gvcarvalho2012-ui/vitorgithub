@@ -16,7 +16,12 @@ Três partes:
 |---|---|---|---|---|
 | [/RISCOS](entradas/riscos.md) | 001 · 04 | gestão | compliance-nbr-iso-37301, pericia-inss | não testado |
 | [/CONCRETO](entradas/concreto.md) | 001 · 14 | cálculo | lacuna | não testado |
-| [/RESUMO](entradas/resumo.md) | 001 · 67, 70 | estudo | pdf, humanizer | não testado |
-| [/MAPA MENTAL](entradas/mapa-mental.md) | 001 · 73 | estudo | artifact-diagramming | não testado |
-| [/SIMULADO](entradas/simulado.md) | 001 · 72, 77 | estudo | lacuna | não testado |
-| [/PESQUISA](entradas/pesquisa.md) | 001 · 71, 74 | estudo | deep-research | não testado |
+| [/RESUMO](entradas/resumo.md) | 001 · 67, 70 | estudo | vc-estudo, pdf | não testado |
+| [/MAPA MENTAL](entradas/mapa-mental.md) | 001 · 73 | estudo | vc-estudo, artifact-diagramming | não testado |
+| [/SIMULADO](entradas/simulado.md) | 001 · 72, 77 | estudo | vc-estudo | não testado |
+| [/PESQUISA](entradas/pesquisa.md) | 001 · 71, 74 | estudo | vc-estudo, deep-research | não testado |
+
+## Skills criadas
+| Skill | Local no repositório | Pacote para upload |
+|---|---|---|
+| `vc-estudo` | [.claude/skills/vc-estudo](../.claude/skills/vc-estudo/SKILL.md) | [skills-dist/vc-estudo.skill](../skills-dist/vc-estudo.skill) |
