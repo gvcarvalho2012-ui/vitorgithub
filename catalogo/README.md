@@ -26,3 +26,6 @@ Três partes:
 | Skill | Local no repositório | Pacote para upload |
 |---|---|---|
 | `vc-estudo` | [.claude/skills/vc-estudo](../.claude/skills/vc-estudo/SKILL.md) | [skills-dist/vc-estudo.skill](../skills-dist/vc-estudo.skill) |
+
+## Perfil
+- [perfil-fundido.md](perfil-fundido.md): preferências de resposta (texto atual + 002), 12 linhas, pronto para colar.
