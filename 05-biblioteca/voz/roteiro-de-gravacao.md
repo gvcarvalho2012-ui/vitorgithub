@@ -2,7 +2,7 @@
 
 > Data: 2026-11-03 · Tipo: guia · Status: vigente
 
-**Resumo:** lista do que o Vitor grava uma vez para alimentar todos os Reels. Duração total: cerca de 12 a 15 minutos.
+**Resumo:** FASE 2, só depois do teste com o Reel 1. Lista do que o Vitor grava uma vez para alimentar todos os Reels. Duração total: cerca de 12 a 15 minutos.
 
 ## Como gravar
 
@@ -14,7 +14,7 @@
 
 ## Bloco 1: termos soltos (3 versões cada)
 
-CNO · aferição · CND · INSS · Receita Federal · obra · regularização · averbação · habite-se · decadência · contribuição previdenciária · classificação · classe · metros quadrados · redução · Vitor BIM
+CNO · aferição · CND · INSS · Receita Federal · obra · regularização · averbação · habite-se · decadência · contribuição previdenciária · categoria · destinação · metros quadrados · redução · Vitor BIM
 
 ## Bloco 2: conectores
 
@@ -24,7 +24,7 @@ CNO · aferição · CND · INSS · Receita Federal · obra · regularização �
 
 - "Sua obra está pronta. Então por que o INSS ainda trava?"
 - "A análise do seu INSS começa antes mesmo da aprovação do projeto."
-- "Dá para reorganizar. Mas o quanto antes você fizer isso pode definir quanto de redução terá no seu INSS."
+- "Dá para reorganizar. E quanto antes, maior pode ser a redução no seu INSS."
 
 ## Bloco 4: chamadas para ação (versão impacto, com pausa antes da palavra)
 
@@ -35,4 +35,4 @@ CNO · aferição · CND · INSS · Receita Federal · obra · regularização �
 
 ## Bloco 5: texto corrido do Reel 1 (leitura completa, 2 versões)
 
-Leia o texto da v2 de `04-projetos/2026-11-03-obra-trava-no-inss/roteiro.md`, do começo ao fim, sem parar. É a gravação principal do Reel 1. Só grave este bloco depois de validar os pontos técnicos da v2.
+Leia o texto da v3 de `04-projetos/2026-11-03-obra-trava-no-inss/roteiro.md`, do começo ao fim, sem parar. É a gravação principal do Reel 1. Só grave este bloco depois de validar os pontos técnicos da v2.

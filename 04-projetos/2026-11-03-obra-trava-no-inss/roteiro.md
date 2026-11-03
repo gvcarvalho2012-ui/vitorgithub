@@ -61,7 +61,7 @@ Cerca de 100 palavras: 36 a 38 s de fala, mais pausas, dentro dos 45 s do Reel.
 
 ---
 
-## Texto da narração v2 (dor antes do CNO, a partir das falas do Vitor)
+## Texto da narração v2 (SUBSTITUÍDA pela v3 abaixo)
 
 > Data: 2026-11-03 · Status: rascunho para aprovação. As ideias e a ordem são do Vitor; a IA só deu fluidez à fala. Duração-alvo: **60 s** (a série alterna 30, 45 e 60 s).
 
@@ -90,3 +90,39 @@ Cerca de 140 palavras: 50 a 52 s de fala, mais pausas, dentro dos 60 s.
 3. "O quanto antes pode definir quanto de redução terá": confirmar que a redução depende do momento e que a frase não promete redução em todo caso.
 4. As três falas das estações: mesmos pontos da v1 (aferição apura a contribuição previdenciária; a CND libera a averbação; um erro no CNO contamina as etapas seguintes).
 5. Nenhuma fala promete valor, percentual, prazo ou resultado, conforme a regra de conteúdo do perfil.
+
+---
+
+## Texto da narração v3 (revisão pedida pelo Vitor: vocabulário, gancho curto, promessa cautelosa)
+
+> Data: 2026-11-03 · Status: rascunho final para validação técnica e gravação do teste. Duração-alvo: **60 s**.
+
+| # | Parte | Fala | Visual (a animar após aprovação) |
+|---|---|---|---|
+| 1 | **Gancho (kicker em tela: "COMO TUDO ACONTECE")** | "A análise do seu INSS começa antes mesmo da aprovação do projeto." | Rota nasce antes da primeira estação. Em tela: ANTES DA APROVAÇÃO. |
+| 2 | **Dor** | "E poucos metros quadrados podem mudar a categoria e a destinação da sua obra perante a Receita." | A rota se bifurca: um pequeno desvio de m² manda o caminho para o ramo vermelho. Em tela: CATEGORIA, DESTINAÇÃO. Sem números. |
+| 3 | **Ponte** | "Dá para reorganizar. E quanto antes, maior pode ser a redução no seu INSS." | O ramo vermelho é redesenhado para o amarelo; barra "REDUÇÃO" cresce. Nota fixa em tela: "depende de cada caso". |
+| 4 | CNO | "Tudo parte da abertura correta do CNO. É a porta de entrada da obra. Um erro aqui contamina o que vem depois." | Estação 1. |
+| 5 | Aferição | "Depois, a aferição. Ela apura a contribuição previdenciária da obra. É aqui que o custo muda." | Estação 2. |
+| 6 | CND | "Por fim, a CND, a certidão que libera a averbação. Ela só sai quando tudo antes está coerente." | Estação 3. |
+| 7 | Erro | "São três etapas ligadas. Um erro em uma contamina as outras." | Zoom out e pulso vermelho. |
+| 8 | **CTA (voz de impacto)** | "Cada caso depende de análise. Se a sua obra está travada: comente OBRA. Eu analiso o seu caso." | Cena invertida. |
+
+Cerca de 125 palavras: 45 a 48 s de fala, mais pausas e respiros, dentro dos 60 s.
+
+### O que mudou da v2 para a v3
+
+| Ponto | v2 | v3 | Motivo |
+|---|---|---|---|
+| Vocabulário | "classificação" e "classe perante a Receita" | "**categoria**" e "**destinação**" | Termos corretos, informados pelo Vitor. |
+| Gancho | 35 palavras (~14 s) numa só frase | **11 palavras (~4 s)**, só a ideia central; a dor vira a fala seguinte | Retenção nos primeiros 3 s. |
+| Promessa de redução | "o quanto antes pode definir quanto de redução terá" | "quanto antes, **maior pode ser** a redução", mais nota "depende de cada caso" | Evitar que soe como garantia de redução. |
+| CNO | "E tudo parte da..." | "Tudo parte da..." | Fala mais seca. |
+
+### Pontos técnicos a validar com a norma antes de gravar o texto corrido
+
+1. "A análise do INSS começa antes da aprovação do projeto": confirmar a formulação e se vale para todo caso.
+2. "Poucos metros quadrados podem mudar a categoria e a destinação perante a Receita": confirmar que é a área que muda a categoria **e** a destinação, ou se são duas variáveis diferentes. Se forem diferentes, dividir a frase.
+3. "Quanto antes, maior pode ser a redução": confirmar que o momento influencia a redução e que o verbo "poder" cobre todos os casos.
+4. Aferição, CND e CNO: mesmos pontos das versões anteriores (a aferição apura a contribuição previdenciária; a CND libera a averbação; um erro no CNO contamina as etapas seguintes).
+5. Nenhuma fala promete valor, percentual, prazo ou resultado.

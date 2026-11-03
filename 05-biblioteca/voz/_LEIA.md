@@ -4,6 +4,10 @@
 
 **Resumo:** gravações da voz do Vitor para reaproveitar nos Reels: termos recorrentes, conectores, chamadas para ação e frases-padrão. O áudio não vai para o git (o `.gitignore` já exclui `.wav`, `.mp3` e `.m4a`); fica no computador ou no Drive. Aqui ficam só este guia e o catálogo.
 
+## Fase atual
+
+O teste começa só com o **Reel 1**: veja `04-projetos/2026-11-03-obra-trava-no-inss/audio/GRAVAR-REEL-1.md`. O roteiro de gravação completo do banco fica para depois do teste, e usa a terminologia nova (categoria e destinação).
+
 ## Como funciona
 
 1. O Vitor grava seguindo [roteiro-de-gravacao.md](roteiro-de-gravacao.md).
