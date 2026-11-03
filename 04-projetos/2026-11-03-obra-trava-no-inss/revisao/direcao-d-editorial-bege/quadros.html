@@ -1,0 +1,66 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<style>
+@font-face{font-family:PF;src:url(fonts/playfair-display-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:PF;src:url(fonts/playfair-display-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:Pin;src:url(fonts/pinyon-script-latin-400-normal.woff2)}
+@font-face{font-family:Cor;src:url(fonts/cormorant-garamond-latin-400-italic.woff2);font-style:italic}
+:root{--bg:#f1ebe3;--ink:#2a2a2b;--br:#a67c5b;--tp:#d9c9b8;--card:#f8f4ee;--mut:#7d746b}
+*{box-sizing:border-box;margin:0}
+.f{width:1080px;height:1920px;background:radial-gradient(circle at 50% 30%,#f7f2ec,var(--bg));color:var(--ink);font-family:'Inter',sans-serif;position:relative;overflow:hidden;display:none;text-align:center}
+body[data-f="1"] #f1,body[data-f="2"] #f2,body[data-f="3"] #f3{display:block}
+.star{position:absolute;top:96px;left:0;right:0;font-size:44px;color:var(--br)}
+.cap{font-size:28px;letter-spacing:.34em;text-transform:uppercase;color:var(--ink)}
+.cap.s{font-size:25px;color:var(--mut)}
+.abs{position:absolute;left:0;right:0}
+.ser{font-family:PF,serif;font-weight:400;letter-spacing:-.01em;line-height:1.02}
+.scr{font-family:Pin,cursive;color:var(--br);line-height:1}
+.it{font-family:Cor,serif;font-style:italic;color:var(--br)}
+.rule{width:150px;height:2px;background:var(--ink);opacity:.5;margin:0 auto}
+.lines{display:flex;align-items:center;justify-content:center;gap:34px}
+.lines i{display:block;width:210px;height:2px;background:var(--ink);opacity:.4}
+.disc{position:absolute;border-radius:50%}
+.card{background:var(--card);border-radius:60px;box-shadow:0 2px 6px rgba(80,60,40,.06),0 36px 80px rgba(80,60,40,.14),inset 0 2px 0 #fff}
+.row{display:flex;align-items:center;gap:52px;padding:0 64px;height:290px;text-align:left}
+.n{width:128px;height:128px;border-radius:50%;background:var(--br);color:#fff;font-family:PF,serif;font-size:62px;display:flex;align-items:center;justify-content:center;flex:none;box-shadow:0 14px 30px rgba(166,124,91,.4)}
+.row h3{font-family:PF,serif;font-weight:500;font-size:84px;letter-spacing:-.01em}
+.row p{font-size:33px;color:var(--mut);margin-top:10px}
+.v{width:2px;height:68px;background:var(--br);opacity:.6;margin:0 auto}
+.pill{font-family:PF,serif;font-size:50px;padding:26px 48px;border-radius:70px}
+.ar{color:var(--br);font-size:50px}
+</style><body>
+<section class="f" id="f1">
+<div class="star">✦</div>
+<div class="abs cap" style="top:176px">Regularização de obra</div>
+<div class="disc" style="width:480px;height:480px;background:#2a2a2b;right:-220px;top:1400px;opacity:.96"></div>
+<div class="disc" style="width:360px;height:360px;background:var(--br);left:-190px;top:1480px;opacity:.9"></div>
+<div class="abs" style="top:430px"><div class="ser" style="font-size:158px">Sua obra<br>está pronta.</div>
+<div class="lines" style="margin:70px 0 56px"><i></i><i></i></div>
+<div class="ser" style="font-size:96px;color:var(--br)">Por que o INSS</div>
+<div class="scr" style="font-size:150px;margin-top:6px">ainda trava?</div>
+<div class="cap s" style="margin-top:80px;line-height:1.7">Três pontos decidem<br>a aprovação final</div></div>
+<div class="abs cap s" style="bottom:210px;letter-spacing:.3em;color:var(--ink)">Vitor BIM</div>
+<div class="abs it" style="bottom:130px;font-size:42px">cada caso depende de análise</div>
+</section>
+
+<section class="f" id="f2">
+<div class="star">✦</div>
+<div class="abs cap" style="top:176px">Vitor BIM</div>
+<div class="abs" style="top:290px"><div class="ser" style="font-size:112px">Três etapas.</div><div class="scr" style="font-size:130px;margin-top:10px">uma cadeia só</div></div>
+<div class="disc" style="width:620px;height:620px;background:var(--tp);opacity:.45;right:-260px;top:700px"></div>
+<div class="abs" style="top:650px;padding:0 96px">
+<div class="card row"><div class="n">1</div><div><h3>CNO</h3><p>A porta de entrada</p></div></div><div class="v"></div>
+<div class="card row"><div class="n">2</div><div><h3>Aferição</h3><p>O valor da obra perante o INSS</p></div></div><div class="v"></div>
+<div class="card row"><div class="n">3</div><div><h3>CND</h3><p>A liberação final</p></div></div></div>
+<div class="abs it" style="bottom:130px;font-size:42px">regularização de obra</div>
+</section>
+
+<section class="f" id="f3">
+<div class="star">✦</div>
+<div class="abs cap" style="top:176px">Vitor BIM</div>
+<div class="abs" style="top:330px"><div class="ser" style="font-size:118px">Erro numa etapa</div><div class="scr" style="font-size:112px;margin-top:20px">contamina as outras.</div></div>
+<div class="abs" style="top:790px;display:flex;justify-content:center;align-items:center;gap:26px">
+<div class="card pill">CNO</div><span class="ar">→</span><div class="card pill">Aferição</div><span class="ar">→</span><div class="card pill">CND</div></div>
+<div class="abs" style="top:1120px;padding:0 96px"><div style="background:var(--ink);color:#f1ebe3;border-radius:60px;padding:64px 56px"><div class="cap" style="color:#bda68f;font-size:23px;margin-bottom:22px">Chamada para ação · a definir</div><div class="ser" style="font-size:64px;line-height:1.1">Comente <span class="it" style="color:#d9b38f;font-size:76px">OBRA</span><br>e analiso o seu caso.</div></div></div>
+<div class="abs it" style="bottom:130px;font-size:42px">cada caso depende de análise</div>
+</section>
+</body></html>
