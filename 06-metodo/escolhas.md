@@ -7,6 +7,7 @@
 ## Regras aprendidas
 
 <!-- Uma regra por linha, curta. Exemplo: "Nada de rótulo em cápsula: fica com cara de IA." -->
+- Direção visual aprovada: editorial escura (fundo preto, destaque amarelo, caixa alta). Vigiar para não virar sensacionalismo.
 
 ## Rodadas
 
@@ -17,3 +18,9 @@
 - **Por quê:** "nas suas palavras"
 - **O que muda na próxima rodada:**
 -->
+
+### 2026-11-03 · 2026-11-03-obra-trava-no-inss, rodada 1
+- **Na mesa:** A · Apple, B · Blueprint, C · Editorial (escura, amarelo, caixa alta), D · Bege (referência enviada pelo Vitor). Folha em `04-projetos/2026-11-03-obra-trava-no-inss/revisao/prancha-comparativa.png`.
+- **Escolha:** C · Editorial.
+- **Por quê:** "Senti mais impacto com ela, a editorial."
+- **O que muda na próxima rodada:** a C usa caixa alta e amarelo, que tendem ao sensacionalismo que o Vitor rejeita. Segurar o tom com texto técnico e preciso, sem adjetivo de impacto. Nova referência com motion anunciada pelo Vitor (pin do Pinterest), ainda não lida.
