@@ -1,0 +1,51 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<style>
+:root{--bg:#0c1f36;--ln:#2d4f78;--ink:#eaf2fb;--mut:#8fb0d3;--acc:#5ee1ff}
+*{box-sizing:border-box;margin:0}
+.f{width:1080px;height:1920px;background:var(--bg);color:var(--ink);font-family:'Inter',sans-serif;position:relative;overflow:hidden;display:none;
+background-image:linear-gradient(var(--ln) 1px,transparent 1px),linear-gradient(90deg,var(--ln) 1px,transparent 1px);background-size:120px 120px;background-position:-1px -1px}
+.f::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 50% 40%,transparent 30%,var(--bg) 100%)}
+body[data-f="1"] #f1,body[data-f="2"] #f2,body[data-f="3"] #f3{display:block}
+.mono{font-family:'DejaVu Sans Mono',monospace}
+.top{position:absolute;top:96px;left:96px;right:96px;display:flex;justify-content:space-between;font-size:26px;color:var(--mut);letter-spacing:.14em;z-index:2}
+.top b{color:var(--ink);letter-spacing:.06em}
+.z{position:absolute;z-index:2}
+h1{font-size:112px;line-height:1.05;letter-spacing:-.03em;font-weight:700}
+h1 em{font-style:normal;color:var(--acc)}
+.sub{font-size:36px;color:var(--mut);margin-top:48px}
+.box{border:3px solid var(--ink);padding:52px 56px;display:flex;align-items:center;gap:48px;height:290px;background:rgba(12,31,54,.92);position:relative}
+.box::before,.box::after{content:"";position:absolute;width:22px;height:22px;background:var(--acc)}
+.box::before{left:-12px;top:-12px}.box::after{right:-12px;bottom:-12px}
+.tg{font-size:34px;color:var(--acc);letter-spacing:.12em;width:110px;flex:none}
+.box h3{font-size:84px;letter-spacing:-.03em}
+.box p{font-size:34px;color:var(--mut);margin-top:8px}
+.dim{height:80px;width:3px;margin:0 auto;background:var(--acc);position:relative}
+.dim::before,.dim::after{content:"";position:absolute;left:-14px;width:31px;height:3px;background:var(--acc)}
+.dim::before{top:0}.dim::after{bottom:0}
+.dim span{position:absolute;left:36px;top:24px;font-size:24px;color:var(--acc);letter-spacing:.12em;white-space:nowrap}
+.chain{display:flex;align-items:center;gap:20px;margin-top:100px}
+.chip{border:3px solid var(--ink);padding:24px 38px;font-size:44px;font-weight:700;background:rgba(12,31,54,.92)}
+.ar{color:var(--acc);font-size:52px}
+.cta{left:96px;right:96px;bottom:290px;border:3px solid var(--acc);padding:60px 64px;background:rgba(12,31,54,.95)}
+.cta small{display:block;font-size:26px;color:var(--acc);letter-spacing:.14em;margin-bottom:20px}
+.cta div{font-size:60px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.bot{position:absolute;bottom:100px;left:96px;right:96px;display:flex;justify-content:space-between;font-size:26px;color:var(--mut);letter-spacing:.1em;z-index:2}
+</style><body>
+<section class="f" id="f1"><div class="top mono"><b>VITOR BIM</b><span>REV.01 · FOLHA 1/3</span></div>
+<div class="z" style="left:96px;right:96px;top:660px"><h1>Sua obra está pronta.<br><em>Por que o INSS ainda trava?</em></h1><p class="sub">Três pontos decidem a aprovação final.</p></div>
+<div class="bot mono"><span>REGULARIZAÇÃO DE OBRA</span><span>ESC 1:1</span></div></section>
+
+<section class="f" id="f2"><div class="top mono"><b>VITOR BIM</b><span>REV.01 · FOLHA 2/3</span></div>
+<div class="z" style="left:96px;right:96px;top:260px"><h1 style="font-size:92px">Três etapas.<br><em>Uma cadeia só.</em></h1></div>
+<div class="z" style="left:96px;right:96px;top:700px">
+<div class="box"><div class="tg mono">E.01</div><div><h3>CNO</h3><p>A porta de entrada</p></div></div><div class="dim"><span class="mono">DEPENDE DE</span></div>
+<div class="box"><div class="tg mono">E.02</div><div><h3>Aferição</h3><p>O valor da obra perante o INSS</p></div></div><div class="dim"><span class="mono">DEPENDE DE</span></div>
+<div class="box"><div class="tg mono">E.03</div><div><h3>CND</h3><p>A liberação final</p></div></div></div>
+<div class="bot mono"><span>REGULARIZAÇÃO DE OBRA</span><span>ESC 1:1</span></div></section>
+
+<section class="f" id="f3"><div class="top mono"><b>VITOR BIM</b><span>REV.01 · FOLHA 3/3</span></div>
+<div class="z" style="left:96px;right:96px;top:290px"><h1 style="font-size:100px">Erro numa etapa<br><em>contamina as outras.</em></h1>
+<div class="chain"><div class="chip">CNO</div><span class="ar mono">→</span><div class="chip">Aferição</div><span class="ar mono">→</span><div class="chip">CND</div></div></div>
+<div class="z cta"><small class="mono">CHAMADA PARA AÇÃO · A DEFINIR</small><div>Comente OBRA e analiso o seu caso.</div></div>
+<div class="bot mono"><span>CADA CASO DEPENDE DE ANÁLISE</span><span>ESC 1:1</span></div></section>
+</body></html>
