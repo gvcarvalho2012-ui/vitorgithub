@@ -2,7 +2,7 @@
 
 > Data: 2026-11-03 · Tipo: dados · Status: vigente
 
-**Como usar:** gerado por `uv run setup/conferir.py` em 03/11/2026 20:11 (Linux 6.18.44-fc-v233, x86_64). Não edite à mão: rode o script de novo.
+**Como usar:** gerado por `uv run setup/conferir.py` em 03/11/2026 20:46 (Linux 6.18.44-fc-v233, x86_64). Não edite à mão: rode o script de novo.
 
 | Grupo | Item | Pronto | Detalhe |
 |---|---|---|---|
@@ -42,7 +42,7 @@
 | Motores | After Effects | não | opcional |
 | Motores | Motion Kit AE | não | opcional: clubedomotion.com/kit-ae |
 | Motores | HyperFrames e Remotion | sim | rodam por npx dentro de cada projeto |
-| Cérebro | Perfil preenchido | não | roteiro 1 (setup/1-segundo-cerebro.md) |
+| Cérebro | Perfil preenchido | sim | ok |
 | Cérebro | Projeto no ai-memory | não | roteiro 1 |
 | Cérebro | Pasta de referências | não | roteiro 3 (setup/3-referencias.md) |
 | Cérebro | Efeitos sonoros | sim | 56 arquivos |
