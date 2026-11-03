@@ -15,7 +15,7 @@
 
 - [x] 1. Ideia e critério de pronto
 - [x] 2. Roteiro enxuto (IA) → texto final (dono): estrutura em roteiro.md, falta o texto seu
-- [ ] 3. Narração
+- [ ] 3. Narração (texto v1 em roteiro.md; áudio pendente)
 - [ ] 4. Aprovação do áudio
 - [ ] 5. Referências e assets
 - [ ] 6. Identidade visual
