@@ -6,7 +6,7 @@
 
 ## Critério de pronto
 
-- Formato e duração: 9:16, 45 s (série intercala 30, 45 e 60 s)
+- Formato e duração: 9:16, 60 s (roteiro v2; a série intercala 30, 45 e 60 s)
 - Onde publica: Instagram, YouTube Shorts, TikTok
 - Motor (After Effects, EffectCraft, HyperFrames, Remotion): a definir (sugestão: HyperFrames)
 - Pronto quando: áudio aprovado, render 9:16 sem quadros pulados, chamada para ação definida e conferência normativa feita

@@ -30,7 +30,7 @@
 
 ---
 
-## Texto da narração (versão 1, proposta pela IA a pedido do Vitor)
+## Texto da narração (versão 1, SUBSTITUÍDA pela v2 abaixo)
 
 > Data: 2026-11-03 · Status: rascunho para aprovação do Vitor. A regra do método é o texto final ser seu: leia em voz alta, corte o que não soar como você e me devolva os ajustes. Cada afirmação técnica precisa ser conferida com a base normativa antes da gravação.
 
@@ -58,3 +58,35 @@ Cerca de 100 palavras: 36 a 38 s de fala, mais pausas, dentro dos 45 s do Reel.
 2. "A CND libera a averbação da obra": confirmar que esta é a CND que o seu fluxo trata e se a frase vale para todo caso.
 3. "Um erro no CNO contamina as etapas seguintes": confirmar se vale como regra geral ou só para certos erros.
 4. Nenhuma fala entrega prazo, valor, data-base nem passo a passo, conforme a regra de conteúdo do perfil.
+
+---
+
+## Texto da narração v2 (dor antes do CNO, a partir das falas do Vitor)
+
+> Data: 2026-11-03 · Status: rascunho para aprovação. As ideias e a ordem são do Vitor; a IA só deu fluidez à fala. Duração-alvo: **60 s** (a série alterna 30, 45 e 60 s).
+
+| # | Parte | Fala | Visual (ideia, a animar após aprovação do texto) |
+|---|---|---|---|
+| 1 | **Gancho: "Como tudo acontece"** | "A análise do seu INSS começa antes mesmo da aprovação do projeto. Alguns metros quadrados podem te colocar em uma classificação diferente. E é essa classificação que determina a sua classe perante a Receita." | A rota nasce antes da primeira estação e se **bifurca**: um pequeno desvio de m² manda o caminho para o ramo vermelho. Palavras de apoio em tela: ANTES DA APROVAÇÃO, CLASSIFICAÇÃO, CLASSE. Sem números inventados. |
+| 2 | **Ponte: dá para reorganizar** | "Dá para reorganizar. Mas o quanto antes você fizer isso pode definir quanto de redução terá no seu INSS." | O ramo vermelho é redesenhado para o ramo amarelo. Uma barra "REDUÇÃO" cresce quanto mais cedo a correção acontece. Sem valores. |
+| 3 | CNO | "E tudo parte da abertura correta do CNO. É a porta de entrada da obra. Um erro aqui contamina o que vem depois." | Estação 1, como hoje. |
+| 4 | Aferição | "Depois, a aferição. Ela apura a contribuição previdenciária da obra. É aqui que o custo muda." | Estação 2. |
+| 5 | CND | "Por fim, a CND, a certidão que libera a averbação. Ela só sai quando tudo antes está coerente." | Estação 3. |
+| 6 | Erro | "São três etapas ligadas. Um erro em uma contamina as outras." | Zoom out e pulso vermelho. |
+| 7 | **CTA (voz de impacto)** | "Cada caso depende de análise. Se a sua obra está travada: comente OBRA. Eu analiso o seu caso." | Cena invertida (creme, caminho preto e amarelo, ponta vermelha). |
+
+Cerca de 140 palavras: 50 a 52 s de fala, mais pausas, dentro dos 60 s.
+
+### O que muda em relação à v1
+
+- A dor vem **antes** do CNO e vira a razão de urgência. O CNO deixa de ser o começo e passa a ser "a abertura correta".
+- A promessa "dá para reorganizar" mantém a regra do perfil: mostra que há solução sem dizer como.
+- A fala sobre a CND ganhou uma frase mais curta e a do erro perdeu "E a obra inteira para", para caber nos 60 s.
+
+### Pontos técnicos a validar com a norma antes de gravar
+
+1. "A análise do INSS começa antes da aprovação do projeto": confirmar a formulação e se vale para todo caso.
+2. "Alguns metros quadrados podem mudar a classificação, que determina a classe perante a Receita": confirmar os termos exatos (classificação, categoria, classe, destinação) para não usar a palavra errada ao público.
+3. "O quanto antes pode definir quanto de redução terá": confirmar que a redução depende do momento e que a frase não promete redução em todo caso.
+4. As três falas das estações: mesmos pontos da v1 (aferição apura a contribuição previdenciária; a CND libera a averbação; um erro no CNO contamina as etapas seguintes).
+5. Nenhuma fala promete valor, percentual, prazo ou resultado, conforme a regra de conteúdo do perfil.
